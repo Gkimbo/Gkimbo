@@ -1,7 +1,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRsb3pid2JxNDBtaTgzbXAzd3FjbDJwcTY3NDY5NWNhdXU2dHB4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EWX43RhOlsvKUtNf7M/giphy.gif" width="350" alt="Image">
 
-- 🔭 I’m currently working on my own project called WithinReach
-  <a href="https://within-reach-10b07fcd97a3.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://www.technipages.com/wp-content/uploads/2020/10/fix-google-maps-not-updating-location.png" width="36" height="36" alt="WithinReach" /></a>
+- 🔭 I’m currently working on my own project called Kleanr
 - 🌱 I’m currently learning Python
 - 🌍 I'm based in Boston
 <!-- - 👯 I’m looking to collaborate on ...
